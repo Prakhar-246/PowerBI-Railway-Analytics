@@ -29,6 +29,23 @@ The goal of this dashboard is to analyze railway performance based on various me
 
 ---
 
+## 📸 Screenshots
+# Passanger Trends
+![ss1](https://github.com/user-attachments/assets/b6850781-0542-4108-83db-dee6c88bab9d)
+
+# Railway Performance
+![ss2](https://github.com/user-attachments/assets/8271fce9-68d5-44c7-bdad-7ff6dc2e8f42)
+
+# Revenue Dashboard
+![ss3](https://github.com/user-attachments/assets/4a71f5b4-b146-4ef2-814d-37c8f1137641)
+
+# Journey Path Insights
+![ss4](https://github.com/user-attachments/assets/6abd8f1d-cb39-4c4a-9dba-e9a931ac8ff8)
+
+# Strategic View
+![ss6](https://github.com/user-attachments/assets/970de402-5a38-44d6-8e5a-d2412c167130)
+
+
 ## 🔗 How to Use
 
 1. Clone this repository or download the `.pbix` file.
